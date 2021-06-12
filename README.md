@@ -5,9 +5,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSelvaLakshmiSV%2Fhit-counter&count_bg=%23C284B8&title_bg=%233C1C92&icon=github.svg&icon_color=%234298B0&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelvaLakshmiSV&theme=tokyonight&show_icons=true?)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelvaLakshmiSV&theme=Gradient&show_icons=true?)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelvaLakshmiSV)](https://github.com/SelvaLakshmiSV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelvaLakshmiSV&layout=compact)](https://github.com/SelvaLakshmiSV/github-readme-stats)
 
 
 <!--
