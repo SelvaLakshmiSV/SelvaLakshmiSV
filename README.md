@@ -1,7 +1,8 @@
 ### Hi there 👋
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3031368-Me-Animation&psig=AOvVaw29zc1eYXscz6d7nEuoZ9Qp&ust=1623611994714000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjB0pjokvECFQAAAAAdAAAAABAT" width="30px">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSelvaLakshmiSV%2Fhit-counter&count_bg=%23C284B8&title_bg=%233C1C92&icon=github.svg&icon_color=%234298B0&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 <!--
 **SelvaLakshmiSV/SelvaLakshmiSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
