@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨,<𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Selva Lakshmi
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Selva Lakshmi
 <br>
 <h3 align="center">Software Engineer | Full Stack Web developer | Machine Learning Enthusiast</h3>
 
