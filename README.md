@@ -1,3 +1,41 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Selva Lakshmi</h1>
+<h3 align="center">Software Engineer | Full Stack Web developer | Machine Learning Enthusiast</h3>
+
+
+
+<p align="center">
+  <em>
+    This is ME, Selva Lakshmi, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Kalasalingam Institute of Technology</b>, Krisknankovilr</a>. <br>
+    A budding <b>Full-Stack Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
+✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
+✔ I’m currently learning **NextJS** & **Bootstrap**<br>
+✔ I'm quite good at **NodeJs**, **ReactJs**, **Python**, **Pig Latin**.<br>
+✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ I’m looking for help for learning **Remote Sensing**<br>
+✔ I use to write code on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
+✔ Have a look over My personal [Portfolio Website](https://inspiring-wright-e29c46.netlify.app/)<br>
+✔ Look at My contribution [stats](https://gitlab.com/Akashchowrasia) on [Gitlab](https://gitlab.com/Akashchowrasia)<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+ 
+
+
+
+
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •   -->
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=SelvaLakshmiSV&style=flat&color=brightgreen"> 
