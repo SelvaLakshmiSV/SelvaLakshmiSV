@@ -83,11 +83,6 @@
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=SelvaLakshmiSV&theme=react-dark&hide_border=true&area=true)
 
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your Master Branch-->
-![Github Contribution Graph](https://github.com/SelvaLakshmiSV/SelvaLakshmiSV/blob/main/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your Master Branch -->
-<br/>
-
 #
 
 **🐱 My study life** 
