@@ -21,15 +21,13 @@
 - 💬 Ask Me About Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! I am happy to help.
 - 😄 Pronouns : **SHe/Hers**
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  Hogwarts House : **Grylfindore** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
-
 <br/>
 <br/>
 
 
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •   -->
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=SelvaLakshmiSVstyle=flat&color=brightgreen"> •   
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=SelvaLakshmiSV&style=flat&color=brightgreen"> •   
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/SelvaLakshmiSV?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/SelvaLakshmiSV?label=Stars" alt="Total Stars">
 </p>
