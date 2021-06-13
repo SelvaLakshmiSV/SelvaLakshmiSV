@@ -37,7 +37,7 @@
   
   
   
-  
+https://github.com/SelvaLakshmiSV/SelvaLakshmiSV/blob/main/README.md
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
