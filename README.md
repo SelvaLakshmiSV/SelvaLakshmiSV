@@ -28,14 +28,7 @@
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •   -->
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=SelvaLakshmiSV&style=flat&color=brightgreen"> •   
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/SelvaLakshmiSV?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/SelvaLakshmiSV?label=Stars" alt="Total Stars">
 </p>
-#
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SelvaLakshmiSV&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
-
-#
 
 <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
@@ -96,17 +89,6 @@
 
 #
 
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>WakaTime Stats : </strong>
-</summary>
-
-<a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-</a>
-
-<br>
-<br>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661880%20lines%20of%20code-blue)
@@ -119,97 +101,6 @@
  
 **I'm a bookworm** 
 
-```text
-🌞 Morning    80 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
-🌆 Daytime    289 commits    ██████░░░░░░░░░░░░░░░░░░░   26.93% 
-🌃 Evening    430 commits    ██████████░░░░░░░░░░░░░░░   40.07% 
-🌙 Night      274 commits    ██████░░░░░░░░░░░░░░░░░░░   25.54%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       143 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Tuesday      122 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
-Wednesday    131 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
-Thursday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
-Friday       123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-Saturday     201 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
-Sunday       221 commits    █████░░░░░░░░░░░░░░░░░░░░   20.6%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    52 hrs 14 mins      ██████████████████████░░░   87.57% 
-C++                      2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.84% 
-Python                   1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-CSS                      51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-HTML                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
-
-🔥 Editors: 
-Browser                  52 hrs 5 mins       █████████████████████░░░░   87.33% 
-CLion                    3 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
-WebStorm                 2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-PyCharm                  1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
-
-🐱‍💻 Projects: 
-CodeForces               14 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   23.78% 
-CodeChef                 10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
-Basic                    9 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.4% 
-LAB_C_D                  5 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
-FlaskApp                 5 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.97%
-
-💻 Operating System: 
-Windows                  59 hrs 39 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         27 repos            ██████░░░░░░░░░░░░░░░░░░░   27.27% 
-Python                   21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-C++                      11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Kotlin                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.08%
-
-```
-
-
-
- Last Updated on 12/06/2021
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <a>
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  </a>
-  <a>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-  </a>
-</p>
-
-#
-
-<p align="center">
-  <a href="https://github.com/JayantGoel001">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  </a>
-  <h4 align="center"><code>📊 GitHub Metrics</code></h4>
-</p>
-
-<p align="center">
-  <a href='https://github.com/JayantGoel001/'>
-    <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
-  </a>
-</p>
 
 <h1>
   Connect With Me
