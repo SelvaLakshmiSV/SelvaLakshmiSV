@@ -139,7 +139,7 @@
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
+  <a href="https://www.codechef.com/users/selvalakshmi_9" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
   </a>
 </p>
