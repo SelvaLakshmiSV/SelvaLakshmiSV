@@ -19,9 +19,9 @@
 - 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
 - 🤔 I’m looking for help with **Internships**
 - 💬 Ask Me About Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+- 😄 Pronouns : **SHe/Hers**
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/house.png" width="20px" height="20px"/>  Hogwarts House : **Grylfindore** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/Slytherin_ClearBG.png">
 
 <br/>
 <br/>
@@ -29,27 +29,13 @@
 
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •   -->
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •   
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=SelvaLakshmiSVstyle=flat&color=brightgreen"> •   
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/SelvaLakshmiSV?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/SelvaLakshmiSV?label=Stars" alt="Total Stars">
 </p>
-<p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="Github Profile Score">
-  </code>
-</p>
-
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
-
-<p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SelvaLakshmiSV&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
 
 #
 
@@ -127,19 +113,13 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661880%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My study life** 
 
-> 🏆 3,837 Contributions in the Year 2021
- > 
-> 📦 848.5 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 186 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm a Night 🦉** 
+> 🏆 Rank first among all the students in computer science depatment.
+  
+> 🔑 I won 2 trophy for my projects.
+ 
+**I'm a bookworm** 
 
 ```text
 🌞 Morning    80 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
