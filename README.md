@@ -20,21 +20,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **NextJS** & **Bootstrap**<br>
-✔ I'm quite good at **NodeJs**, **ReactJs**, **Python**, **Pig Latin**.<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I use to write code on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Have a look over My personal [Portfolio Website](https://inspiring-wright-e29c46.netlify.app/)<br>
-✔ Look at My contribution [stats](https://gitlab.com/Akashchowrasia) on [Gitlab](https://gitlab.com/Akashchowrasia)<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+- 🔭 I’m currently working on **Android, Data Science and Web Development**
+- 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
+- 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
+- 😄 Pronouns : **SHe/Her**
  
-
-
-
 
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •   -->
@@ -79,7 +69,6 @@
   <strong>Github Stats : </strong>
 </summary>
 <br>
-
 <p align="center">
   <a href="https://github.com/SelvaLakshmiSV">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SelvaLakshmiSV&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -99,10 +88,6 @@
 <br/>
 
 #
-
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661880%20lines%20of%20code-blue)
 
 **🐱 My study life** 
 
