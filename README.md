@@ -103,34 +103,34 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+  <a href="https://www.linkedin.com/in/svselvalakshmi/ target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
+      <a href="https://twitter.com/Dinky_Darla" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
   </a>
-  <a href="https://dev.to/jayantgoel001">
+                                                                                                                       
+                                                                                                                      
+  <a href="https://www.instagram.com/dinky_darla/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+  </a>
+ 
+  <a href="https://dev.to/dinky_darla">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
+  <a href="https://www.hackerrank.com/selvalakshmi_sv">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
   </a>
 
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
+  <a href="https://codeforces.com/profile/dinky_darla" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/cf.png"/></code>
   </a>
 
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
+  <a href="https://www.hackerearth.com/@selvalakshmi.sv" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
   </a>
 
