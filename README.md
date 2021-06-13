@@ -16,8 +16,7 @@
 </p>
 
 
-<img align="right" width=300px alt="Unicorn" src="![image](https://user-images.githubusercontent.com/76725996/121819127-265b7780-cca9-11eb-9946-e139b5291374.png)
-" />
+<img align="right" width=300px alt="Unicorn" src="https://github.com/SelvaLakshmiSV/SelvaLakshmiSV/blob/main/image/coder.gif"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
