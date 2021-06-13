@@ -5,10 +5,11 @@
 <table><tr><td valign="top" width="50%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelvaLakshmiSV&theme=tokyonight&show_icons=true?)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelvaLakshmiSV&layout=compact)](https://github.com/SelvaLakshmiSV/github-readme-stats)
-
 </td><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelvaLakshmiSV&layout=compact)](https://github.com/SelvaLakshmiSV/github-readme-stats)
+</td><td valign="top" width="50%">
+
  
 <!--
 **SelvaLakshmiSV/SelvaLakshmiSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
