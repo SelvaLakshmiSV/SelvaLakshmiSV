@@ -37,7 +37,7 @@
 
 **LANGUAGES AND TOOLS:**  
 <br/>
-<br/>
+
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
@@ -83,16 +83,6 @@
 ![github graph](https://activity-graph.herokuapp.com/graph?username=SelvaLakshmiSV&theme=react-dark&hide_border=true&area=true)
 
 #
-
-**🐱 My study life** 
-
-> 🏆 Rank first among all the students in computer science depatment.
-  
-> 🔑 I won 2 trophy for my projects.
- 
-**I'm a bookworm** 
-
-
 <h1>
   Connect With Me
   <a target="_blank">
