@@ -1,33 +1,6 @@
-<h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-  </a>
-</h1>
-
-<br/>
-<br/>
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
-</a>
-
-- 🔭 I’m currently working on **Android, Data Science and Web Development**
-- 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
-- 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
-- 🤔 I’m looking for help with **Internships**
-- 💬 Ask Me About Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! I am happy to help.
-- 😄 Pronouns : **SHe/Hers**
-- ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
-<br/>
-<br/>
-
-
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •   -->
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=SelvaLakshmiSV&style=flat&color=brightgreen"> •   
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=SelvaLakshmiSV&style=flat&color=brightgreen"> 
 </p>
 
 <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
