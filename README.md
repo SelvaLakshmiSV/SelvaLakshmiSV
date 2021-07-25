@@ -1,13 +1,17 @@
 <hr>
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Selva Lakshmi
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 <img src=" " width="30px"> I'm Selva Lakshmi
 <br>
-<h3 align="center">Full Stack Java developer</h3>
+<h3 align="center">Full Stack Java developer| Computer sience engineering student </h3>
 
 
 
 
 <img align="right" width=500px alt="Unicorn" src="https://github.com/SelvaLakshmiSV/SelvaLakshmiSV/blob/main/image/coder.gif"/>
-
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **S𝙷𝚎/Her**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Dinky** is my nick name.
 
  
 
