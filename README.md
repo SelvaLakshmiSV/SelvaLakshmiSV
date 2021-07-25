@@ -1,7 +1,7 @@
 <hr>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Selva Lakshmi
 <br>
-<h3 align="center">Full Stack Java developer| Computer sience engineering student </h3>
+<h3 align="center">Full Stack Java developer| Computer science engineering student </h3>
 
 
 <img align="right" width=500px alt="Unicorn" src="https://github.com/SelvaLakshmiSV/SelvaLakshmiSV/blob/main/image/coder.gif"/>
