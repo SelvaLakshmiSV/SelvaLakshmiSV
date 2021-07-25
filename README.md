@@ -9,12 +9,6 @@
 <img align="right" width=500px alt="Unicorn" src="https://github.com/SelvaLakshmiSV/SelvaLakshmiSV/blob/main/image/coder.gif"/>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
-
-- 🔭 I’m currently working on **Android, Data Science and Web Development**
-- 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
-- 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
-- 😄 Pronouns : **SHe/Her**
  
 
 <p align="center">
