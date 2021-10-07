@@ -1,4 +1,4 @@
-![](https://github.com/SelvaLakshmiSV/banner/blob/main/photo_2021-10-07_20-58-08.jpg)
+![](https://github.com/SelvaLakshmiSV/banner/blob/main/Cap.PNG)
 <hr>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Selva Lakshmi
 <br>
