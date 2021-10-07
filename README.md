@@ -12,7 +12,7 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **S𝙷𝚎/Her**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Dinky** is my nick name.
 - 📚🐛 Bookworm 
- 
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br/>
 <br/>
 <br/>
