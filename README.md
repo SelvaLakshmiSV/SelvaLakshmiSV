@@ -1,4 +1,3 @@
-![](https://github.com/SelvaLakshmiSV/banner/blob/main/dinky.jpg)
 <hr>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Selva Lakshmi
 <br>
