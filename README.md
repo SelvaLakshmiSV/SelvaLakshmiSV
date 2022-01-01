@@ -138,5 +138,4 @@
 </div>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 #
-<a href="https://app.daily.dev/dinky_darla"><img src="https://api.daily.dev/devcards/f36707a9f3d34073a14fb16d28a42dc9.png?r=rcl" width="400" alt="SELVA LAKSHMI S.V's Dev Card"/></a>
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
