@@ -137,6 +137,7 @@
 
 </div>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+                                                                                          
 ## 📺 Latest YouTube videos
 
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
@@ -149,5 +150,5 @@
 [![Migrating Discord Bots from Discord.py to Nextcord](https://freshidea.com/jonah/app/youtube-card/?id=lzyd5wHzDmU)](https://www.youtube.com/watch?v=lzyd5wHzDmU "Migrating Discord Bots from Discord.py to Nextcord")
 [![Edit and RUN your code from GitHub online in seconds](https://freshidea.com/jonah/app/youtube-card/?id=0YLTILjOxIE)](https://www.youtube.com/watch?v=0YLTILjOxIE "Edit and RUN your code from GitHub online in seconds")
 [![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ)](https://www.youtube.com/watch?v=22XrqdIe8oQ "Keeping your dependencies updated automatically with Dependabot")<!-- YOUTUBE:END -->
-                                                                                          
+ [<img src="https://custom-icon-badges.herokuapp.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)                                                                                       
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
