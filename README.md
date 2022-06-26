@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/selvalakshmi_sv">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/hr.webp"/></code>
   </a>
 
   <a href="https://codeforces.com/profile/dinky_darla" target="_blank">
@@ -122,4 +122,4 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
                                                                                           
                                                                                        
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
