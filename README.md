@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Selva Lakshmi</h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, I'm Selva Lakshmi</h1>
 <h3 align="center">Full Stack Java developer</h3>
 <p>Enthusiastic, resourceful and hardworking student with the ability to establish priorities and meet challenges head-on. Having good communication skill, effective at multi tasking. Hoping to be an asset to the company along with learning new things to improve myself.
  </p>
