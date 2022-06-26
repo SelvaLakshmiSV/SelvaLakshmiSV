@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/selvalakshmi_sv">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
+    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
   </a>
 
   <a href="https://codeforces.com/profile/dinky_darla" target="_blank">
